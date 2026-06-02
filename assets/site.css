@@ -163,9 +163,9 @@
       position: absolute;
       inset: 0;
       z-index: -3;
-      background-image: url("https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&w=2200&q=86");
+      background-image: url("https://images.unsplash.com/photo-1551524559-8af4e6624178?auto=format&fit=crop&w=2400&q=88");
       background-size: cover;
-      background-position: center;
+      background-position: center 42%;
       transform: scale(1.04);
       animation: slowZoom 18s var(--ease) both;
     }
@@ -176,8 +176,8 @@
       inset: 0;
       z-index: -2;
       background:
-        linear-gradient(90deg, rgba(4, 5, 5, .88), rgba(4, 5, 5, .42) 48%, rgba(4, 5, 5, .78)),
-        linear-gradient(180deg, rgba(4, 5, 5, .50), rgba(4, 5, 5, .16) 38%, #080908 100%);
+        linear-gradient(90deg, rgba(4, 5, 5, .78), rgba(4, 5, 5, .28) 48%, rgba(4, 5, 5, .58)),
+        linear-gradient(180deg, rgba(4, 5, 5, .34), rgba(4, 5, 5, .08) 38%, #080908 100%);
     }
 
     .hero-grid {
